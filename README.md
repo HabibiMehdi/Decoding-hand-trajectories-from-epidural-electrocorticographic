@@ -5,4 +5,7 @@ we using dataset from this paper"Decoding continuous three-dimensional hand traj
 
 ![image](https://github.com/thehabibimm/Decoding-hand-trajectories-from-epidural-electrocorticographic/assets/123571190/74ba04e3-b26f-49ea-be96-8bcc92e7befa)
 
+# Result for channel 11 
+![result_reg](https://github.com/thehabibimm/Decoding-hand-trajectories-from-epidural-electrocorticographic/assets/123571190/15df146a-34cc-4b5b-bc1d-87933448fcd4)
+
 
