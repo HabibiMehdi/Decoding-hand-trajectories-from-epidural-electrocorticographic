@@ -2,11 +2,14 @@
 Overview
 This repository implements the decoding of continuous three-dimensional hand trajectories from epidural electrocorticographic (eECoG) signals. The method is based on the research paper titled "Decoding continuous three-dimensional hand trajectories from epidural electrocorticographic signals in Japanese macaques."
 
-Paper Reference
+**Paper Reference**
+
 Title: Decoding continuous three-dimensional hand trajectories from epidural electrocorticographic signals in Japanese macaques
 Authors: [Kentaro Shimoda]
+we using dataset from this paper"Decoding continuous three-dimensional hand trajectories from epidural electrocorticographic signals in Japanese macaques" with DOI: 10.1088/1741-2560/9/3/036015.
 
 **Dataset**
+
 The dataset used in this project involves two adult Japanese macaques (monkeys B and C) implanted with customized 64-channel ECoG electrodes in the epidural space of the left hemisphere. The electrodes cover the area from the prefrontal cortex (PFC) to the primary somatosensory cortex (S1). Detailed information about the electrode specifications, locations, and surgical procedures can be found in Section 2.1 of the paper.
 
 **Preprocessing**
@@ -33,9 +36,6 @@ Multivariate partial least-squares (PLS) regression on the training data.
 Ten-fold cross-validation to determine the optimal number of PLS components.
 Validation:
 Performance quantification based on correlation coefficients between predicted and observed hand trajectories using data recorded during the last 5 minutes.
-That's project about decoding hand trajectories from epidural electrocorticographic(ECoG)
-
-we using dataset from this paper"Decoding continuous three-dimensional hand trajectories from epidural electrocorticographic signals in Japanese macaques" with DOI: 10.1088/1741-2560/9/3/036015.
 
 ![image](https://github.com/thehabibimm/Decoding-hand-trajectories-from-epidural-electrocorticographic/assets/123571190/74ba04e3-b26f-49ea-be96-8bcc92e7befa)
 
