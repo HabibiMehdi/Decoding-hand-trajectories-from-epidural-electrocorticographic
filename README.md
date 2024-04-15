@@ -11,7 +11,7 @@ we using dataset from this paper"Decoding continuous three-dimensional hand traj
 **Dataset**
 
 The dataset used in this project involves two adult Japanese macaques (monkeys B and C) implanted with customized 64-channel ECoG electrodes in the epidural space of the left hemisphere. The electrodes cover the area from the prefrontal cortex (PFC) to the primary somatosensory cortex (S1). Detailed information about the electrode specifications, locations, and surgical procedures can be found in Section 2.1 of the paper.
-Link:
+###Link Dataset:
 [Google](https://github.com/openlists/ElectrophysiologyData)
 
 **Preprocessing**
